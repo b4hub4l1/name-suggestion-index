@@ -626,26 +626,6 @@
       }
     },
     {
-      "displayName": "Hotel Colonial",
-      "id": "hotelcolonial-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Hotel Colonial",
-        "name": "Hotel Colonial",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "displayName": "Hôtel de la Gare",
-      "id": "hoteldelagare-779ccb",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "brand": "Hôtel de la Gare",
-        "name": "Hôtel de la Gare",
-        "tourism": "hotel"
-      }
-    },
-    {
       "displayName": "Hotel Indigo",
       "id": "hotelindigo-cf4e07",
       "locationSet": {"include": ["ca", "us"]},
