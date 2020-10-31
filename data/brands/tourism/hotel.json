@@ -34,6 +34,8 @@
       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Accor",
+        "brand:wikidata": "Q212599",
+        "brand:wikipedia": "en:Accor",
         "name": "Accor",
         "tourism": "hotel"
       }
@@ -745,7 +747,7 @@
     },
     {
       "displayName": "Intercity Hotel",
-      "id": "intercityhotel-6c639d",
+      "id": "intercityhotel-036a6c",
       "locationSet": {
         "include": [
           "at",
@@ -1423,7 +1425,7 @@
     },
     {
       "displayName": "Van der Valk Hotel",
-      "id": "vandervalkhotel-d59115",
+      "id": "vandervalkhotel-1676dc",
       "locationSet": {
         "include": [
           "be",

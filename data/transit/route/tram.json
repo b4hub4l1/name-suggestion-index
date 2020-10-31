@@ -74,7 +74,7 @@
     },
     {
       "displayName": "DLAn",
-      "id": "dlan-9a43d9",
+      "id": "dlan-bc7fa4",
       "locationSet": {"include": ["be", "nl"]},
       "tags": {
         "network": "DLAn",
@@ -84,7 +84,7 @@
     },
     {
       "displayName": "DLOV",
-      "id": "dlov-9a43d9",
+      "id": "dlov-bc7fa4",
       "locationSet": {"include": ["be", "nl"]},
       "tags": {
         "network": "DLOV",
@@ -182,11 +182,13 @@
     },
     {
       "displayName": "Karlsruher Verkehrsverbund",
-      "id": "karlsruherverkehrsverbund-6e865a",
-      "locationSet": {"include": ["de", "fr"]},
+      "id": "karlsruherverkehrsverbund-37759c",
+      "locationSet": {"include": ["de"]},
       "tags": {
         "network": "Karlsruher Verkehrsverbund",
-        "operator": "Karlsruher Verkehrsverbund",
+        "network:short": "KVV",
+        "network:wikidata": "Q1733986",
+        "network:wikipedia": "de:Karlsruher Verkehrsverbund",
         "route": "tram"
       }
     },
@@ -222,8 +224,8 @@
     },
     {
       "displayName": "Manchester Metrolink",
-      "id": "manchestermetrolink-9c9a42",
-      "locationSet": {"include": ["gb"]},
+      "id": "manchestermetrolink-37075c",
+      "locationSet": {"include": ["gb-eng"]},
       "tags": {
         "network": "Manchester Metrolink",
         "network:wikidata": "Q18548",
@@ -362,7 +364,7 @@
     },
     {
       "displayName": "Rail Haaglanden",
-      "id": "railhaaglanden-87e0b3",
+      "id": "railhaaglanden-50b0a0",
       "locationSet": {"include": ["nl"]},
       "tags": {
         "network": "Rail Haaglanden",
@@ -372,7 +374,7 @@
     },
     {
       "displayName": "Rail Rotterdam",
-      "id": "railrotterdam-87e0b3",
+      "id": "railrotterdam-50b0a0",
       "locationSet": {"include": ["nl"]},
       "tags": {
         "network": "Rail Rotterdam",
@@ -391,12 +393,16 @@
       }
     },
     {
-      "displayName": "RATP",
-      "id": "ratp-2e09b9",
-      "locationSet": {"include": ["001"]},
+      "displayName": "RATP (Paris)",
+      "id": "ratp-3c4b3d",
+      "locationSet": {"include": ["fx"]},
       "tags": {
         "network": "RATP",
+        "network:wikidata": "Q1142114",
+        "network:wikipedia": "fr:Tramway d'Île-de-France",
         "operator": "RATP",
+        "operator:wikidata": "Q643290",
+        "operator:wikipedia": "fr:Régie autonome des transports parisiens",
         "route": "tram"
       }
     },
@@ -479,7 +485,7 @@
     },
     {
       "displayName": "Stadsvervoer Amsterdam",
-      "id": "stadsvervoeramsterdam-87e0b3",
+      "id": "stadsvervoeramsterdam-50b0a0",
       "locationSet": {"include": ["nl"]},
       "tags": {
         "network": "Stadsvervoer Amsterdam",
@@ -503,7 +509,11 @@
       "locationSet": {"include": ["fr"]},
       "tags": {
         "network": "TBM",
-        "operator": "TBM",
+        "network:wikidata": "Q377695",
+        "network:wikipedia": "fr:Transports Bordeaux Métropole",
+        "operator": "Keolis Bordeaux Métropole",
+        "operator:wikidata": "Q16039741",
+        "operator:wikipedia": "fr:Keolis Bordeaux Métropole",
         "route": "tram"
       }
     },
@@ -513,7 +523,10 @@
       "locationSet": {"include": ["fr"]},
       "tags": {
         "network": "TCL",
-        "operator": "TCL",
+        "network:wikidata": "Q8700",
+        "network:wikipedia": "fr:Transports en commun lyonnais",
+        "operator": "Keolis Lyon",
+        "operator:wikidata": "Q61456136",
         "route": "tram"
       }
     },
@@ -525,7 +538,8 @@
       },
       "tags": {
         "network": "TNW",
-        "operator": "TNW",
+        "network:wikidata": "Q1479394",
+        "network:wikipedia": "de:Tarifverbund Nordwestschweiz",
         "route": "tram"
       }
     },
